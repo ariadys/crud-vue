@@ -1,4 +1,3 @@
-# crud-vue
 VueJS - CRUD
 
 <pre>
